@@ -35,4 +35,8 @@ public class Demo2Application {
         System.out.println("master6");
     }
 
+    public void cherrypick_hotfix(){
+        System.out.println("cherrypick_hotfix");
+    }
+
 }
