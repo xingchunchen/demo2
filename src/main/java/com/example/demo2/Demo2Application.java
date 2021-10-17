@@ -15,4 +15,11 @@ public class Demo2Application {
     public void master2(){
         System.out.println("master2");
     }
+    public void dev2(){
+        System.out.println("dev2");
+    }
+
+    public void dev3(){
+        System.out.println("dev3");
+    }
 }
