@@ -26,4 +26,8 @@ public class Demo2Application {
     public void master4(){
         System.out.println("master4");
     }
+
+    public void master5(){
+        System.out.println("master5");
+    }
 }
