@@ -12,4 +12,8 @@ public class Demo2Application {
         System.out.println("dev");
     }
 
+    public void dev2(){
+        System.out.println("dev2");
+    }
+
 }
