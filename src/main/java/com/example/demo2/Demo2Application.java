@@ -39,4 +39,13 @@ public class Demo2Application {
         System.out.println("cherrypick_hotfix");
     }
 
+    public void master7(){
+        System.out.println("master7");
+    }
+
+    public void cherrypick_hotfix2(){
+        System.out.println("cherrypick_hotfix2");
+    }
+
+
 }
