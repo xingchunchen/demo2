@@ -30,4 +30,9 @@ public class Demo2Application {
     public void master5(){
         System.out.println("master5");
     }
+
+    public void master6(){
+        System.out.println("master6");
+    }
+
 }
