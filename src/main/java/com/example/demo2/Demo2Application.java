@@ -22,4 +22,8 @@ public class Demo2Application {
     public void dev3(){
         System.out.println("dev3");
     }
+
+    public void master4(){
+        System.out.println("master4");
+    }
 }
