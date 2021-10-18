@@ -58,4 +58,9 @@ public class Demo2Application {
     public void cherrypick6(){
         System.out.println("cherrypick6");
     }
+
+    public void cherrypick7(){
+        System.out.println("cherrypick7");
+    }
+
 }
