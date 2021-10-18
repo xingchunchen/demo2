@@ -51,4 +51,7 @@ public class Demo2Application {
         System.out.println("cherrypick_hotfix2");
     }
 
+    public void cherrypick5(){
+        System.out.println("cherrypick5");
+    }
 }
