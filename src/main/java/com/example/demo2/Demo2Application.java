@@ -47,5 +47,8 @@ public class Demo2Application {
         System.out.println("cherrypick_hotfix2");
     }
 
+    public void hotfix6(){
+        System.out.println("hotfix6");
+    }
 
 }
